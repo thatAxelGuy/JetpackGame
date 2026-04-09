@@ -1,6 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Unreal Derived Data Cache
+DerivedDataCache/
+LocalDerivedDataCache/
+
 # Compiled Object files
 *.slo
 *.lo
